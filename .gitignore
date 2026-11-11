@@ -1,0 +1,28 @@
+node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Build and test artifacts
+coverage/
+*.tsbuildinfo
+
+# Python cache and temporary data
+__pycache__/
+*.py[cod]
+.pytest_cache/
+tools/parsed.pickle
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Browser smoke-test snapshots and session state
+.playwright-cli/

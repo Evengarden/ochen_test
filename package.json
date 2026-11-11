@@ -1,0 +1,15 @@
+{
+  "name": "vector-composer-figma",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Figma plugin that composes only existing vector assets under a constrained design system",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "node tests/engine.test.cjs && node tests/llm.test.cjs && node tests/plugin.mock.test.cjs",
+    "check": "npm run build && npm test"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}

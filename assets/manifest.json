@@ -1,0 +1,814 @@
+{
+  "source": "Тестовое _ иллюстрации (Copy).fig",
+  "assetCount": 40,
+  "assets": [
+    {
+      "id": "L/main/book",
+      "name": "Книга",
+      "semanticId": "book",
+      "size": "L",
+      "role": "main",
+      "sourceNodeId": "21:29965",
+      "path": "assets/svg/L/main/book.svg",
+      "tags": [
+        "знания",
+        "чтение",
+        "обучение",
+        "образование",
+        "learning",
+        "books"
+      ],
+      "width": 1445.892578125,
+      "height": 976.664306640625,
+      "path_count": 53,
+      "byte_count": 42692
+    },
+    {
+      "id": "L/main/phone",
+      "name": "Телефон",
+      "semanticId": "phone",
+      "size": "L",
+      "role": "main",
+      "sourceNodeId": "21:25472",
+      "path": "assets/svg/L/main/phone.svg",
+      "tags": [
+        "связь",
+        "телефон",
+        "технологии",
+        "приложение",
+        "мобильный",
+        "mobile"
+      ],
+      "width": 796.5315551757812,
+      "height": 461.6672058105469,
+      "path_count": 155,
+      "byte_count": 98997
+    },
+    {
+      "id": "L/main/puzzle",
+      "name": "Пазлы",
+      "semanticId": "puzzle",
+      "size": "L",
+      "role": "main",
+      "sourceNodeId": "21:417",
+      "path": "assets/svg/L/main/puzzle.svg",
+      "tags": [
+        "задача",
+        "решение",
+        "сотрудничество",
+        "команда",
+        "идеи",
+        "puzzle"
+      ],
+      "width": 544.1632080078125,
+      "height": 313.5343322753906,
+      "path_count": 57,
+      "byte_count": 51144
+    },
+    {
+      "id": "L/main/coin",
+      "name": "Монета",
+      "semanticId": "coin",
+      "size": "L",
+      "role": "main",
+      "sourceNodeId": "24:2207",
+      "path": "assets/svg/L/main/coin.svg",
+      "tags": [
+        "финансы",
+        "деньги",
+        "бизнес",
+        "рост",
+        "экономика"
+      ],
+      "width": 286.6766662597656,
+      "height": 188.5005645751953,
+      "path_count": 136,
+      "byte_count": 98642
+    },
+    {
+      "id": "L/main/headphones",
+      "name": "Наушники",
+      "semanticId": "headphones",
+      "size": "L",
+      "role": "main",
+      "sourceNodeId": "23:122",
+      "path": "assets/svg/L/main/headphones.svg",
+      "tags": [
+        "аудио",
+        "музыка",
+        "слушать",
+        "подкаст",
+        "концентрация"
+      ],
+      "width": 888.14990234375,
+      "height": 691.54150390625,
+      "path_count": 84,
+      "byte_count": 71593
+    },
+    {
+      "id": "L/main/lamp",
+      "name": "Лампа",
+      "semanticId": "lamp",
+      "size": "L",
+      "role": "main",
+      "sourceNodeId": "23:121",
+      "path": "assets/svg/L/main/lamp.svg",
+      "tags": [
+        "свет",
+        "работа",
+        "идея",
+        "вдохновение",
+        "учёба"
+      ],
+      "width": 945.9432373046875,
+      "height": 1128.9852294921875,
+      "path_count": 27,
+      "byte_count": 23603
+    },
+    {
+      "id": "L/main/wallet",
+      "name": "Кошелёк",
+      "semanticId": "wallet",
+      "size": "L",
+      "role": "main",
+      "sourceNodeId": "23:211",
+      "path": "assets/svg/L/main/wallet.svg",
+      "tags": [
+        "финансы",
+        "кошелёк",
+        "покупки",
+        "деньги",
+        "оплата"
+      ],
+      "width": 630.41552734375,
+      "height": 396.309814453125,
+      "path_count": 86,
+      "byte_count": 49937
+    },
+    {
+      "id": "L/main/folder",
+      "name": "Папка",
+      "semanticId": "folder",
+      "size": "L",
+      "role": "main",
+      "sourceNodeId": "24:1899",
+      "path": "assets/svg/L/main/folder.svg",
+      "tags": [
+        "папка",
+        "документы",
+        "организация",
+        "архив"
+      ],
+      "width": 1240.61865234375,
+      "height": 658.5882568359375,
+      "path_count": 22,
+      "byte_count": 20638
+    },
+    {
+      "id": "L/main/pen",
+      "name": "Ручка",
+      "semanticId": "pen",
+      "size": "L",
+      "role": "main",
+      "sourceNodeId": "24:1734",
+      "path": "assets/svg/L/main/pen.svg",
+      "tags": [
+        "ручка",
+        "писать",
+        "записи",
+        "учёба",
+        "идея"
+      ],
+      "width": 508.42822265625,
+      "height": 285.4002380371094,
+      "path_count": 24,
+      "byte_count": 20353
+    },
+    {
+      "id": "L/main/flowers",
+      "name": "Цветы",
+      "semanticId": "flowers",
+      "size": "L",
+      "role": "main",
+      "sourceNodeId": "28:11628",
+      "path": "assets/svg/L/main/flowers.svg",
+      "tags": [
+        "цветы",
+        "растения",
+        "уют",
+        "природа",
+        "развитие"
+      ],
+      "width": 590.5732421875,
+      "height": 747.1065063476562,
+      "path_count": 131,
+      "byte_count": 94881
+    },
+    {
+      "id": "L/background/book",
+      "name": "Книга",
+      "semanticId": "book",
+      "size": "L",
+      "role": "background",
+      "sourceNodeId": "24:6273",
+      "path": "assets/svg/L/background/book.svg",
+      "tags": [
+        "знания",
+        "чтение",
+        "обучение",
+        "образование",
+        "learning",
+        "books"
+      ],
+      "width": 1445.892578125,
+      "height": 976.664306640625,
+      "path_count": 53,
+      "byte_count": 42639
+    },
+    {
+      "id": "L/background/phone",
+      "name": "Телефон",
+      "semanticId": "phone",
+      "size": "L",
+      "role": "background",
+      "sourceNodeId": "24:6327",
+      "path": "assets/svg/L/background/phone.svg",
+      "tags": [
+        "связь",
+        "телефон",
+        "технологии",
+        "приложение",
+        "мобильный",
+        "mobile"
+      ],
+      "width": 796.5315551757812,
+      "height": 461.667236328125,
+      "path_count": 155,
+      "byte_count": 98838
+    },
+    {
+      "id": "L/background/puzzle",
+      "name": "Пазлы",
+      "semanticId": "puzzle",
+      "size": "L",
+      "role": "background",
+      "sourceNodeId": "24:6214",
+      "path": "assets/svg/L/background/puzzle.svg",
+      "tags": [
+        "задача",
+        "решение",
+        "сотрудничество",
+        "команда",
+        "идеи",
+        "puzzle"
+      ],
+      "width": 544.1632080078125,
+      "height": 313.5343322753906,
+      "path_count": 57,
+      "byte_count": 51203
+    },
+    {
+      "id": "L/background/coin",
+      "name": "Монета",
+      "semanticId": "coin",
+      "size": "L",
+      "role": "background",
+      "sourceNodeId": "24:6795",
+      "path": "assets/svg/L/background/coin.svg",
+      "tags": [
+        "финансы",
+        "деньги",
+        "бизнес",
+        "рост",
+        "экономика"
+      ],
+      "width": 286.6768798828125,
+      "height": 188.50100708007812,
+      "path_count": 136,
+      "byte_count": 98626
+    },
+    {
+      "id": "L/background/headphones",
+      "name": "Наушники",
+      "semanticId": "headphones",
+      "size": "L",
+      "role": "background",
+      "sourceNodeId": "24:6484",
+      "path": "assets/svg/L/background/headphones.svg",
+      "tags": [
+        "аудио",
+        "музыка",
+        "слушать",
+        "подкаст",
+        "концентрация"
+      ],
+      "width": 888.14990234375,
+      "height": 691.54150390625,
+      "path_count": 84,
+      "byte_count": 71743
+    },
+    {
+      "id": "L/background/lamp",
+      "name": "Лампа",
+      "semanticId": "lamp",
+      "size": "L",
+      "role": "background",
+      "sourceNodeId": "24:6569",
+      "path": "assets/svg/L/background/lamp.svg",
+      "tags": [
+        "свет",
+        "работа",
+        "идея",
+        "вдохновение",
+        "учёба"
+      ],
+      "width": 945.9432373046875,
+      "height": 1128.9852294921875,
+      "path_count": 27,
+      "byte_count": 23671
+    },
+    {
+      "id": "L/background/wallet",
+      "name": "Кошелёк",
+      "semanticId": "wallet",
+      "size": "L",
+      "role": "background",
+      "sourceNodeId": "24:6660",
+      "path": "assets/svg/L/background/wallet.svg",
+      "tags": [
+        "финансы",
+        "кошелёк",
+        "покупки",
+        "деньги",
+        "оплата"
+      ],
+      "width": 630.41552734375,
+      "height": 396.309814453125,
+      "path_count": 86,
+      "byte_count": 50025
+    },
+    {
+      "id": "L/background/folder",
+      "name": "Папка",
+      "semanticId": "folder",
+      "size": "L",
+      "role": "background",
+      "sourceNodeId": "24:6772",
+      "path": "assets/svg/L/background/folder.svg",
+      "tags": [
+        "папка",
+        "документы",
+        "организация",
+        "архив"
+      ],
+      "width": 1240.61865234375,
+      "height": 658.5882568359375,
+      "path_count": 22,
+      "byte_count": 20640
+    },
+    {
+      "id": "L/background/pen",
+      "name": "Ручка",
+      "semanticId": "pen",
+      "size": "L",
+      "role": "background",
+      "sourceNodeId": "24:6747",
+      "path": "assets/svg/L/background/pen.svg",
+      "tags": [
+        "ручка",
+        "писать",
+        "записи",
+        "учёба",
+        "идея"
+      ],
+      "width": 508.42822265625,
+      "height": 285.4002380371094,
+      "path_count": 24,
+      "byte_count": 20353
+    },
+    {
+      "id": "L/background/flowers",
+      "name": "Цветы",
+      "semanticId": "flowers",
+      "size": "L",
+      "role": "background",
+      "sourceNodeId": "30:11902",
+      "path": "assets/svg/L/background/flowers.svg",
+      "tags": [
+        "цветы",
+        "растения",
+        "уют",
+        "природа",
+        "развитие"
+      ],
+      "width": 590.5732421875,
+      "height": 747.10595703125,
+      "path_count": 131,
+      "byte_count": 94876
+    },
+    {
+      "id": "S/main/book",
+      "name": "Книга",
+      "semanticId": "book",
+      "size": "S",
+      "role": "main",
+      "sourceNodeId": "24:3810",
+      "path": "assets/svg/S/main/book.svg",
+      "tags": [
+        "знания",
+        "чтение",
+        "обучение",
+        "образование",
+        "learning",
+        "books"
+      ],
+      "width": 722.9462890625,
+      "height": 488.3321228027344,
+      "path_count": 51,
+      "byte_count": 41085
+    },
+    {
+      "id": "S/main/phone",
+      "name": "Телефон",
+      "semanticId": "phone",
+      "size": "S",
+      "role": "main",
+      "sourceNodeId": "24:4746",
+      "path": "assets/svg/S/main/phone.svg",
+      "tags": [
+        "связь",
+        "телефон",
+        "технологии",
+        "приложение",
+        "мобильный",
+        "mobile"
+      ],
+      "width": 398.2657470703125,
+      "height": 230.83363342285156,
+      "path_count": 96,
+      "byte_count": 59579
+    },
+    {
+      "id": "S/main/puzzle",
+      "name": "Пазлы",
+      "semanticId": "puzzle",
+      "size": "S",
+      "role": "main",
+      "sourceNodeId": "24:4903",
+      "path": "assets/svg/S/main/puzzle.svg",
+      "tags": [
+        "задача",
+        "решение",
+        "сотрудничество",
+        "команда",
+        "идеи",
+        "puzzle"
+      ],
+      "width": 272.08160400390625,
+      "height": 156.7671661376953,
+      "path_count": 57,
+      "byte_count": 51307
+    },
+    {
+      "id": "S/main/coin",
+      "name": "Монета",
+      "semanticId": "coin",
+      "size": "S",
+      "role": "main",
+      "sourceNodeId": "24:5345",
+      "path": "assets/svg/S/main/coin.svg",
+      "tags": [
+        "финансы",
+        "деньги",
+        "бизнес",
+        "рост",
+        "экономика"
+      ],
+      "width": 152.39012145996094,
+      "height": 100.20225524902344,
+      "path_count": 130,
+      "byte_count": 95141
+    },
+    {
+      "id": "S/main/headphones",
+      "name": "Наушники",
+      "semanticId": "headphones",
+      "size": "S",
+      "role": "main",
+      "sourceNodeId": "24:5089",
+      "path": "assets/svg/S/main/headphones.svg",
+      "tags": [
+        "аудио",
+        "музыка",
+        "слушать",
+        "подкаст",
+        "концентрация"
+      ],
+      "width": 444.074951171875,
+      "height": 345.770751953125,
+      "path_count": 79,
+      "byte_count": 66592
+    },
+    {
+      "id": "S/main/lamp",
+      "name": "Лампа",
+      "semanticId": "lamp",
+      "size": "S",
+      "role": "main",
+      "sourceNodeId": "24:5485",
+      "path": "assets/svg/S/main/lamp.svg",
+      "tags": [
+        "свет",
+        "работа",
+        "идея",
+        "вдохновение",
+        "учёба"
+      ],
+      "width": 472.9715881347656,
+      "height": 564.4925537109375,
+      "path_count": 27,
+      "byte_count": 23690
+    },
+    {
+      "id": "S/main/wallet",
+      "name": "Кошелёк",
+      "semanticId": "wallet",
+      "size": "S",
+      "role": "main",
+      "sourceNodeId": "24:4594",
+      "path": "assets/svg/S/main/wallet.svg",
+      "tags": [
+        "финансы",
+        "кошелёк",
+        "покупки",
+        "деньги",
+        "оплата"
+      ],
+      "width": 315.207763671875,
+      "height": 198.1549835205078,
+      "path_count": 83,
+      "byte_count": 48799
+    },
+    {
+      "id": "S/main/folder",
+      "name": "Папка",
+      "semanticId": "folder",
+      "size": "S",
+      "role": "main",
+      "sourceNodeId": "24:4430",
+      "path": "assets/svg/S/main/folder.svg",
+      "tags": [
+        "папка",
+        "документы",
+        "организация",
+        "архив"
+      ],
+      "width": 620.3094482421875,
+      "height": 329.29412841796875,
+      "path_count": 20,
+      "byte_count": 19840
+    },
+    {
+      "id": "S/main/pen",
+      "name": "Ручка",
+      "semanticId": "pen",
+      "size": "S",
+      "role": "main",
+      "sourceNodeId": "24:4287",
+      "path": "assets/svg/S/main/pen.svg",
+      "tags": [
+        "ручка",
+        "писать",
+        "записи",
+        "учёба",
+        "идея"
+      ],
+      "width": 254.214111328125,
+      "height": 142.7001190185547,
+      "path_count": 24,
+      "byte_count": 20487
+    },
+    {
+      "id": "S/main/flowers",
+      "name": "Цветы",
+      "semanticId": "flowers",
+      "size": "S",
+      "role": "main",
+      "sourceNodeId": "28:11629",
+      "path": "assets/svg/S/main/flowers.svg",
+      "tags": [
+        "цветы",
+        "растения",
+        "уют",
+        "природа",
+        "развитие"
+      ],
+      "width": 323.2647399902344,
+      "height": 408.94677734375,
+      "path_count": 131,
+      "byte_count": 95189
+    },
+    {
+      "id": "S/background/book",
+      "name": "Книга",
+      "semanticId": "book",
+      "size": "S",
+      "role": "background",
+      "sourceNodeId": "24:6934",
+      "path": "assets/svg/S/background/book.svg",
+      "tags": [
+        "знания",
+        "чтение",
+        "обучение",
+        "образование",
+        "learning",
+        "books"
+      ],
+      "width": 722.9462890625,
+      "height": 488.3321228027344,
+      "path_count": 54,
+      "byte_count": 43214
+    },
+    {
+      "id": "S/background/phone",
+      "name": "Телефон",
+      "semanticId": "phone",
+      "size": "S",
+      "role": "background",
+      "sourceNodeId": "24:6990",
+      "path": "assets/svg/S/background/phone.svg",
+      "tags": [
+        "связь",
+        "телефон",
+        "технологии",
+        "приложение",
+        "мобильный",
+        "mobile"
+      ],
+      "width": 398.2657470703125,
+      "height": 230.83363342285156,
+      "path_count": 155,
+      "byte_count": 99351
+    },
+    {
+      "id": "S/background/puzzle",
+      "name": "Пазлы",
+      "semanticId": "puzzle",
+      "size": "S",
+      "role": "background",
+      "sourceNodeId": "24:7147",
+      "path": "assets/svg/S/background/puzzle.svg",
+      "tags": [
+        "задача",
+        "решение",
+        "сотрудничество",
+        "команда",
+        "идеи",
+        "puzzle"
+      ],
+      "width": 272.08160400390625,
+      "height": 156.7671661376953,
+      "path_count": 57,
+      "byte_count": 51307
+    },
+    {
+      "id": "S/background/coin",
+      "name": "Монета",
+      "semanticId": "coin",
+      "size": "S",
+      "role": "background",
+      "sourceNodeId": "24:7205",
+      "path": "assets/svg/S/background/coin.svg",
+      "tags": [
+        "финансы",
+        "деньги",
+        "бизнес",
+        "рост",
+        "экономика"
+      ],
+      "width": 152.3905029296875,
+      "height": 100.20217895507812,
+      "path_count": 136,
+      "byte_count": 99377
+    },
+    {
+      "id": "S/background/headphones",
+      "name": "Наушники",
+      "semanticId": "headphones",
+      "size": "S",
+      "role": "background",
+      "sourceNodeId": "24:7344",
+      "path": "assets/svg/S/background/headphones.svg",
+      "tags": [
+        "аудио",
+        "музыка",
+        "слушать",
+        "подкаст",
+        "концентрация"
+      ],
+      "width": 444.074951171875,
+      "height": 345.770751953125,
+      "path_count": 84,
+      "byte_count": 71917
+    },
+    {
+      "id": "S/background/lamp",
+      "name": "Лампа",
+      "semanticId": "lamp",
+      "size": "S",
+      "role": "background",
+      "sourceNodeId": "24:7429",
+      "path": "assets/svg/S/background/lamp.svg",
+      "tags": [
+        "свет",
+        "работа",
+        "идея",
+        "вдохновение",
+        "учёба"
+      ],
+      "width": 472.9715881347656,
+      "height": 564.4925537109375,
+      "path_count": 27,
+      "byte_count": 23690
+    },
+    {
+      "id": "S/background/wallet",
+      "name": "Кошелёк",
+      "semanticId": "wallet",
+      "size": "S",
+      "role": "background",
+      "sourceNodeId": "24:7568",
+      "path": "assets/svg/S/background/wallet.svg",
+      "tags": [
+        "финансы",
+        "кошелёк",
+        "покупки",
+        "деньги",
+        "оплата"
+      ],
+      "width": 315.207763671875,
+      "height": 198.1549835205078,
+      "path_count": 86,
+      "byte_count": 50242
+    },
+    {
+      "id": "S/background/folder",
+      "name": "Папка",
+      "semanticId": "folder",
+      "size": "S",
+      "role": "background",
+      "sourceNodeId": "24:7520",
+      "path": "assets/svg/S/background/folder.svg",
+      "tags": [
+        "папка",
+        "документы",
+        "организация",
+        "архив"
+      ],
+      "width": 620.3094482421875,
+      "height": 329.29412841796875,
+      "path_count": 22,
+      "byte_count": 20664
+    },
+    {
+      "id": "S/background/pen",
+      "name": "Ручка",
+      "semanticId": "pen",
+      "size": "S",
+      "role": "background",
+      "sourceNodeId": "24:7543",
+      "path": "assets/svg/S/background/pen.svg",
+      "tags": [
+        "ручка",
+        "писать",
+        "записи",
+        "учёба",
+        "идея"
+      ],
+      "width": 254.214111328125,
+      "height": 142.7001190185547,
+      "path_count": 24,
+      "byte_count": 20487
+    },
+    {
+      "id": "S/background/flowers",
+      "name": "Цветы",
+      "semanticId": "flowers",
+      "size": "S",
+      "role": "background",
+      "sourceNodeId": "28:11766",
+      "path": "assets/svg/S/background/flowers.svg",
+      "tags": [
+        "цветы",
+        "растения",
+        "уют",
+        "природа",
+        "развитие"
+      ],
+      "width": 323.2647399902344,
+      "height": 408.94677734375,
+      "path_count": 131,
+      "byte_count": 95189
+    }
+  ]
+}

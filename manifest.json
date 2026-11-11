@@ -1,0 +1,65 @@
+{
+  "name": "Vector Composer AI — Test Task",
+  "api": "1.0.0",
+  "enablePrivatePluginApi": true,
+  "main": "code.js",
+  "ui": {
+    "ui.html": "ui.html",
+    "assets/svg/L/background/book.svg": "assets/svg/L/background/book.svg",
+    "assets/svg/L/background/coin.svg": "assets/svg/L/background/coin.svg",
+    "assets/svg/L/background/flowers.svg": "assets/svg/L/background/flowers.svg",
+    "assets/svg/L/background/folder.svg": "assets/svg/L/background/folder.svg",
+    "assets/svg/L/background/headphones.svg": "assets/svg/L/background/headphones.svg",
+    "assets/svg/L/background/lamp.svg": "assets/svg/L/background/lamp.svg",
+    "assets/svg/L/background/pen.svg": "assets/svg/L/background/pen.svg",
+    "assets/svg/L/background/phone.svg": "assets/svg/L/background/phone.svg",
+    "assets/svg/L/background/puzzle.svg": "assets/svg/L/background/puzzle.svg",
+    "assets/svg/L/background/wallet.svg": "assets/svg/L/background/wallet.svg",
+    "assets/svg/L/main/book.svg": "assets/svg/L/main/book.svg",
+    "assets/svg/L/main/coin.svg": "assets/svg/L/main/coin.svg",
+    "assets/svg/L/main/flowers.svg": "assets/svg/L/main/flowers.svg",
+    "assets/svg/L/main/folder.svg": "assets/svg/L/main/folder.svg",
+    "assets/svg/L/main/headphones.svg": "assets/svg/L/main/headphones.svg",
+    "assets/svg/L/main/lamp.svg": "assets/svg/L/main/lamp.svg",
+    "assets/svg/L/main/pen.svg": "assets/svg/L/main/pen.svg",
+    "assets/svg/L/main/phone.svg": "assets/svg/L/main/phone.svg",
+    "assets/svg/L/main/puzzle.svg": "assets/svg/L/main/puzzle.svg",
+    "assets/svg/L/main/wallet.svg": "assets/svg/L/main/wallet.svg",
+    "assets/svg/S/background/book.svg": "assets/svg/S/background/book.svg",
+    "assets/svg/S/background/coin.svg": "assets/svg/S/background/coin.svg",
+    "assets/svg/S/background/flowers.svg": "assets/svg/S/background/flowers.svg",
+    "assets/svg/S/background/folder.svg": "assets/svg/S/background/folder.svg",
+    "assets/svg/S/background/headphones.svg": "assets/svg/S/background/headphones.svg",
+    "assets/svg/S/background/lamp.svg": "assets/svg/S/background/lamp.svg",
+    "assets/svg/S/background/pen.svg": "assets/svg/S/background/pen.svg",
+    "assets/svg/S/background/phone.svg": "assets/svg/S/background/phone.svg",
+    "assets/svg/S/background/puzzle.svg": "assets/svg/S/background/puzzle.svg",
+    "assets/svg/S/background/wallet.svg": "assets/svg/S/background/wallet.svg",
+    "assets/svg/S/main/book.svg": "assets/svg/S/main/book.svg",
+    "assets/svg/S/main/coin.svg": "assets/svg/S/main/coin.svg",
+    "assets/svg/S/main/flowers.svg": "assets/svg/S/main/flowers.svg",
+    "assets/svg/S/main/folder.svg": "assets/svg/S/main/folder.svg",
+    "assets/svg/S/main/headphones.svg": "assets/svg/S/main/headphones.svg",
+    "assets/svg/S/main/lamp.svg": "assets/svg/S/main/lamp.svg",
+    "assets/svg/S/main/pen.svg": "assets/svg/S/main/pen.svg",
+    "assets/svg/S/main/phone.svg": "assets/svg/S/main/phone.svg",
+    "assets/svg/S/main/puzzle.svg": "assets/svg/S/main/puzzle.svg",
+    "assets/svg/S/main/wallet.svg": "assets/svg/S/main/wallet.svg"
+  },
+  "editorType": [
+    "figma"
+  ],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": [
+      "https://generativelanguage.googleapis.com/v1beta/models/",
+      "https://api.groq.com",
+      "https://openrouter.ai/api/v1/chat/completions"
+    ],
+    "reasoning": "Requests go only to the selected AI provider endpoint to interpret a prompt against existing vector assets.",
+    "devAllowedDomains": [
+      "http://localhost:1234/v1/",
+      "http://localhost:11434/v1/"
+    ]
+  }
+}
